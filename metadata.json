@@ -1,0 +1,6 @@
+{
+  "name": "Air Freight Cost of Failures",
+  "description": "Weekly operations and delay analytics dashboard tracking air freight failure costs, responsible departments, delay reasons, and plants with Excel import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
